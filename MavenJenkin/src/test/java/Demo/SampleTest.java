@@ -19,9 +19,17 @@ public class SampleTest {
             public void case3() {
 
                 System.out.println("3");
-				 @Test    
+            }
+                
+		    @Test    
             public void case4() {
 
-                System.out.println("4");
+                System.out.println("4");}
+		    
+                
+                @Test    
+                public void case5() {
+
+                    System.out.println("5");
     }
 }
