@@ -49,7 +49,7 @@
 
     <profiles>
 
-        <!-- 🔹 Smoke Profile -->
+        <!-- Smoke Profile -->
         <profile>
             <id>smoke</id>
             <build>
@@ -68,7 +68,7 @@
             </build>
         </profile>
 
-        <!-- 🔹 Random Profile -->
+        <!-- Random Profile -->
         <profile>
             <id>random</id>
             <build>
